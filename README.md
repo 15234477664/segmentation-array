@@ -73,7 +73,7 @@ function group(array, subGroupLength) {
         }
       ],
       tempData: [],
-      num: 6
+      num: 6 // 每组分为的条数
     }
   },
   methods: {
